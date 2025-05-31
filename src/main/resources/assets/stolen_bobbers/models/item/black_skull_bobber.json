@@ -1,0 +1,6 @@
+﻿{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stolen_bobbers:item/black_skull_bobber"
+  }
+}
